@@ -4,9 +4,9 @@ const NavBottom = () => {
     return (
         <nav className='navFooter'>
             <Link to="/">Accueil</Link>
-            <a href='#Formation'>Formation</a>
-            <a href='#projets'>Réalisation</a>
-            <a href='#contactContainer'>Contact</a>
+            <a href='/#Formation'>Formation</a>
+            <a href='/#projets'>Réalisation</a>
+            <a href='/#contactContainer'>Contact</a>
         </nav>
     );
 };
