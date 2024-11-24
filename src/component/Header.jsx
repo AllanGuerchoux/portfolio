@@ -21,7 +21,7 @@ function Header() {
             <Link to="/">Accueil</Link>
             <a href='/#Formation'>Formation</a>
             <a href='/#projets'>Réalisation</a>
-            <a href='/#contactContainer'>Contacte</a>
+            <a href='/#contactContainer'>Contact</a>
       </nav>
 
       {/* Burger Menu pour mobile */}
