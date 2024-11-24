@@ -769,6 +769,7 @@ footer{
   }
 
   #Formation{
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -778,6 +779,7 @@ footer{
   }
   .descriptionFormation{
     text-align: center;
+    margin-top: 20px;
   }
   .listeFormation{
     margin: 20px;

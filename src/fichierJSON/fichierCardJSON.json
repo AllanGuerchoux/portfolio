@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Kasa",
         "picture": ["https://i.imgur.com/v2sc93n.png"],
-        "description": "Dans ce projet, nous devions implémenter le front-end d'une application web en utilisant React et React router pour créer une expérience utilisateur moderne et réactive",
+        "description": "Dans ce projet, nous devions implémenter le front-end d'une application web en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive",
         "outils": ["React", "Node.js", "Sass"],
         "compétence": ["Initialiser une application avec Create React App","Configurer la navigation entre les pages de l'application avec React Router","Développer des éléments de l'interface d'un site web grâce à des composants React","Mettre en œuvre des animations CSS","Développer une interface web avec Sass"],
         "lienGitHub": "https://github.com/AllanGuerchoux/projet5"
@@ -12,7 +12,7 @@
         "id": "2",
         "title": "Mon vieux grimoire",
         "picture": ["https://i.imgur.com/gp1vqbM.png"],
-        "description": "Dans ce projet, nous devions développez le back-end d'une site de notation de livres en utilisant Express et en le connectant à une base de données MongoDB",
+        "description": "Dans ce projet, nous devions développer le back-end d'une site de notation de livres en utilisant Express et en le connectant à une base de données MongoDB",
         "outils": ["NodeExpress", "MongoDB", "Mongoose "],
         "compétence": ["Implémenter un modèle logique de données conformément à la réglementation","Mettre en œuvre des opérations CRUD de manière sécurisée","Stocker des données de manière sécurisée"],
         "lienGitHub": "https://github.com/AllanGuerchoux/projet6-test"

@@ -41,7 +41,7 @@ const Projets = () => {
                     outils={logement.outils || "Aucun outil spécifié"} // Valeur par défaut
                     
                 />
-                <a className='pushDown' href={logement.lienGitHub}>lien vers le Repo Github</a>
+                <a className='pushDown' href={logement.lienGitHub} target="_blank" rel="noopener noreferrer" >lien vers le Repo Github</a>
                 </section>
             </main>
             <Footer />
