@@ -412,9 +412,23 @@ footer{
     width: 54%;
   }
 
-
-
-
+  .compétence{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .mesCompétences{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .iconSize{
+    font-size: 50px;
+    margin-bottom: 20px;
+  }
 
 
 }
@@ -657,6 +671,23 @@ footer{
   footer{
     margin-top: auto;
     border-radius: 10px 10px 0 0;
+  }
+
+  .compétence{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .mesCompétences{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .iconSize{
+    font-size: 50px;
+    margin-bottom: 20px;
   }
 }
 #TitreEtDescription{
@@ -958,13 +989,7 @@ footer{
   align-items: center;
 }
 
-#TitreEtDescription{
-  
-}
-#outils{
-  
 
-}
 .compétenceListe{
   width: 50%;
 }
@@ -984,16 +1009,23 @@ footer{
 .bigImageProjet{
 object-fit: contain;
 }
-.sectionProjetDef{
-  
+
+.compétence{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
 }
 
-.sectionProjetDef img{
-  
+.mesCompétences{
+  display: flex;
+  flex-direction: row;
 }
 
-
-
+.iconSize{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
 
 
 
